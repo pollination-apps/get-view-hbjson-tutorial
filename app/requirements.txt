@@ -1,9 +1,9 @@
 streamlit>=1.11.1
 ladybug-vtk>=0.8.1
-ladybug-core
-dragonfly-core
+ladybug-core>=0.39.80
+dragonfly-core>=1.34.28
 pollination-streamlit>=0.5.0
-pollination-streamlit-io>=0.36.6
-pollination-streamlit-viewer>=0.4.4
+pollination-streamlit-io>=0.45.2
+pollination-streamlit-viewer>=0.4.7
 honeybee-vtk>=0.38.3
 lbt-honeybee>=0.5.482
